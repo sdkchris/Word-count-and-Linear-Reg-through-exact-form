@@ -21,8 +21,8 @@
         "colab_type": "text"
       },
       "source": [
-        "# 1. Pandas and Numpy\n",
-        "**Word Count Program:** \n",
+        "# 1. Word Count Program\n",
+        "**** \n",
         "In this task your are required to use the provided text file and write a program that will count the number of occurances of unique words.\n",
         "\n",
         "The program should ignore words like {’the’, ’a’,’an’,’be’}\n",
