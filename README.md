@@ -1,4 +1,4 @@
-# Word Count and Linear Regression through exact form
+### Word Count and Linear Regression through exact form
 
 **Task:** 
 Given a text file, we are required to count the number of occurances of unique words.
